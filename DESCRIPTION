@@ -1,0 +1,26 @@
+Package: mishMashr
+Title: Tools To Help With The Little Annoyances In Life
+Version: 0.1.0
+Authors@R: 
+    person(given = "Mark",
+           family = "Goble",
+           role = c("aut", "cre"),
+           email = "mark.goble@goble.co.uk")
+Description: A rag-bag of functions to help with handling various things.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    checkmate,
+    magrittr,
+    dplyr,
+    purrr,     
+    forcats,
+    rlang,
+    rstudioapi,
+    lubridate,
+    stringr,
+    utils
+Depends:
+    R (>= 3.5)
