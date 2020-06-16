@@ -4,8 +4,13 @@
 \alias{write_out}
 \title{consistently write out data files}
 \usage{
-write_out(object, add_date = FALSE, output_directory = NULL,
-  file_type = "RDS", custom_name = NULL)
+write_out(
+  object,
+  add_date = FALSE,
+  output_directory = NULL,
+  file_type = "RDS",
+  custom_name = NULL
+)
 }
 \arguments{
 \item{object}{the object to be saved}

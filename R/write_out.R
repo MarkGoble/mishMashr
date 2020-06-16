@@ -32,7 +32,7 @@
 #'  write_out(mtcars, add_date = TRUE, file_type = "csv", custom_name = "cars")
 #'  # writes the mtcars data to a csv file "cars_(day)_(month)_(year).csv"
 #'
-#' }
+#'}
 
 write_out <- function(object,
                       add_date = FALSE,

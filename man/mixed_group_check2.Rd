@@ -4,8 +4,7 @@
 \alias{mixed_group_check2}
 \title{Finds parents with two or more child values in two children columns}
 \usage{
-mixed_group_check2(data_frame, parent_column, child_column_1,
-  child_column_2)
+mixed_group_check2(data_frame, parent_column, child_column_1, child_column_2)
 }
 \arguments{
 \item{data_frame}{a data frame to check}

@@ -4,8 +4,13 @@
 \alias{refactorer}
 \title{easier way to refactor using lists}
 \usage{
-refactorer(data_frame, column, level_vector, label_vector,
-  other_label = "Unknown")
+refactorer(
+  data_frame,
+  column,
+  level_vector,
+  label_vector,
+  other_label = "Unknown"
+)
 }
 \arguments{
 \item{data_frame}{The data frame containing the column}
