@@ -2,7 +2,7 @@
 #'
 #' A wrapper around source
 #'
-#' A wrapper around source. Recommended to use with the \link[marksLittleHelper]{sibling_folder} function.
+#' A wrapper around source. Recommended to use with the \link[mishMashr]{sibling_folder} function.
 #'
 #' @param source_file the R script to source
 #' @param path the path to the file

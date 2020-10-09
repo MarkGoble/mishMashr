@@ -18,7 +18,7 @@ none
 A wrapper around source
 }
 \details{
-A wrapper around source. Recommended to use with the \link[marksLittleHelper]{sibling_folder} function.
+A wrapper around source. Recommended to use with the \link[mishMashr]{sibling_folder} function.
 }
 \examples{
 \dontrun{
